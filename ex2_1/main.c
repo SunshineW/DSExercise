@@ -69,10 +69,10 @@ int main()
 		}
 		else
 		{
-			printf("%s is not a HuiWenSun!\n", buf);
+			printf("NO\n");
 			return 0;
 		}
 	}
-	printf("%s is a HuiWenShu!\n", buf);
+	printf("YES\n", buf);
 	return 0;
 }

@@ -5,3 +5,4 @@ a.out:myhead.h imp.c main.c
 
 clean:
 	rm a.out
+	
